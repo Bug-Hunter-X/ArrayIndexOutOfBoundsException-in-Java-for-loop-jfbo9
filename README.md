@@ -1,0 +1,1 @@
+This repository demonstrates a common error in Java: the ArrayIndexOutOfBoundsException.  The code attempts to access an array element beyond its valid index. The solution shows how to correctly iterate over the array using the appropriate loop condition.  This simple example highlights the importance of careful array indexing in Java programs. 
